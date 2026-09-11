@@ -1,4 +1,3 @@
--- deobfuscated by crxkv ( every credits to : @itx_crxkv )
 local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 local PlayerGui = Players.LocalPlayer:WaitForChild("PlayerGui")
